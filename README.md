@@ -1,1 +1,30 @@
-# GGrany
+# <p align="center" > تنصيب سورس  جراني
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود التنصيب الاول مع المكاتب ↬ ⤈
+# <p align="center" > `git clone https://github.com/krqq/GGrany.zip;unzip GGrany.zip ;cd GGrany;chmod +x GGrany.sh;./GGrany.sh install
+`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود التنصيب السريع من دون مكاتب ↬ ⤈
+# <p align="center" > `git clone https://github.com/krqq/GGrany.zip ;unzip GGrany.zip ;cd GGrany;chmod +x GGrany.sh;./GGrany.sh`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > قم بنسخ احدى اكواد التنصيب
+# <p align="center" > والصقه في الترمنال واضغط انتر
+# <p align="center" > انتظر الى ان ينتهي التنصيب
+# <p align="center" > ⤈ ↫ بعدها املأ المتطلبات ↬ ⤈
+# <p align="center" > ~ ايدي المطور • توكن البوت ~
+# <p align="center" > ومبروك عليك تنصيب السورس
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود الرن ↬ ⤈
+# <p align="center" > `./GGrany/Run`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود حذف التنصيب ↬ ⤈
+# <p align="center" > `rm -rf GGrany`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > ⤈ ↫ كود تغير ايدي المطور الاساسي وتوكن البوت ↬ ⤈
+# <p align="center" > `cd GGrany;rm -rf config.lua;./Run`
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
+# <p align="center" > [Source Ch](https://t.me/GGrany) • [قناة السورس](https://t.me/GGrany)
+# <p align="center" > [Exp Source](https://t.me/GGrany) • [شروحات السورس](https://t.me/GGrany)
+# <p align="center" > [Source Prog](https://t.me/RRXRRR) • [مبرمج السورس](https://t.me/RRXRRR)
+# <p align="center" > [dev2](https://t.me/a7_8) • [المبرمج الثاني](https://t.me/a7_8r)
+# <p align="center" > ┉ ≈ ┉ ≈ ┉ ≈ ┉ ≈ ┉
